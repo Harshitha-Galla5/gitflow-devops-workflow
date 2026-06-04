@@ -272,49 +272,37 @@ This version represents the first stable release of the project.
 
 ### Branches
 
-```markdown
 ![Branches](screenshots/branches.png)
-```
 
 ---
 
 ### Pull Request #1
 
-```markdown
 ![PR1](screenshots/pr1-merged.png)
-```
 
 ---
 
 ### Pull Request #2
 
-```markdown
 ![PR2](screenshots/pr2-merged.png)
-```
 
 ---
 
 ### Pull Request #3
 
-```markdown
 ![PR3](screenshots/pr3-merged.png)
-```
 
 ---
 
 ### Commit History
 
-```markdown
 ![Commit History](screenshots/commit-history.png)
-```
 
 ---
 
 ### Release Tag
 
-```markdown
 ![Release Tag](screenshots/tag-v1.0.0.png)
-```
 
 ---
 
